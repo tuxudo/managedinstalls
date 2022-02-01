@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 """
 Filter the result of /Library/Managed Installs/ManagedInstallReport.plist
 to only the parts that represent the installed items
